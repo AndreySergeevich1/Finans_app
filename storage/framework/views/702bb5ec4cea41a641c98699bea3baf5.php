@@ -1,0 +1,1 @@
+ <?php /**PATH C:\Users\graza\Desktop\Новая папка (2)\finance-app\resources\views/components/responsive-nav-link.blade.php ENDPATH**/ ?>
